@@ -14,7 +14,8 @@ export default function Home() {
         className="group mt-20 sm:mt-0 rounded-full flex space-x-1 bg-slate/50 shadow-sm ring-1 ring-gray-900/5 text-gray-600 text-sm font-medium px-10 py-2 hover:shadow-lg active:shadow-sm transition-all"
       >
         <p>
-     page-views.vercel.app
+    <!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/sudo-self/page-view-counter" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star sudo-self/page-view-counter on GitHub">Star</GitHubButton>
         </p>
         <ExpandingArrow />
       </Link>
