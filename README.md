@@ -1,3 +1,4 @@
+## <a href="https://page-views.vercel.app">Page-views</a><hr>
 ### KV_URL=
 ### KV_REST_API_URL=
 ### KV_REST_API_TOKEN=
