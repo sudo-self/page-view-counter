@@ -3,7 +3,7 @@ import Link from 'next/link'
 import ViewCounter from '@/components/view-counter'
 import { Suspense } from 'react'
 import ExpandingArrow from '@/components/expanding-arrow'
-
+import GitHubButton from 'react-github-btn' 
 export const dynamic = 'force-dynamic'
 
 export default function Home() {
