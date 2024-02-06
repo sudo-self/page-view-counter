@@ -56,7 +56,7 @@ export default function Home() {
       <div className="sm:absolute sm:bottom-0 w-full px-20 py-10 flex justify-center items-center">
           
         <Link
-          href="https://github.com/sudo-self"
+          href="https://github.com/sudo-self/page-view-counter"
           className="flex items-center space-x-2"
         >
           <Image
@@ -66,7 +66,7 @@ export default function Home() {
             height={24}
             priority
           />
-          <p className="font-light">/sudo-self</p>
+          <p className="font-light">/page-view-counter</p>
         </Link>
       </div>
     </main>
