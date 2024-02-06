@@ -14,7 +14,7 @@ export default function Home() {
         className="group mt-20 sm:mt-0 rounded-full flex space-x-1 bg-slate/50 shadow-sm ring-1 ring-gray-900/5 text-gray-600 text-sm font-medium px-10 py-2 hover:shadow-lg active:shadow-sm transition-all"
       >
         <p>
-     Refresh Page
+     page-views.vercel.app
         </p>
         <ExpandingArrow />
       </Link>
