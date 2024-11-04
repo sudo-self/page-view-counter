@@ -29,13 +29,13 @@ export default function Home() {
         <div className="flex justify-between items-center mb-4">
           <div className="space-y-1">
             <h2 className="text-xl text-rose-900 font-semibold">
-            <a href="https://nes.jessejesse.com">NES-PS1</a>
+            <a href="https://marioworld.jessejesse.com">NES</a>
             </h2>
             <p className="text-sm text-rose-700">
                ᗧ···ᗣ···ᗣ····♥···ᗣ····
             </p>
           </div>
-       <p>Vercel kv + Redis&nbsp;<GitHubButton href="https://github.com/sudo-self/page-view-counter" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star sudo-self/page-view-counter on GitHub">Star</GitHubButton></p>
+       <p>serverless functions;<GitHubButton href="https://github.com/sudo-self/page-view-counter" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star sudo-self/page-view-counter on GitHub">Star</GitHubButton></p>
         </div>
         <div className="flex flex-col text-emerald-800 space-y-4">
           <center><iframe src="https://app-svelte-eight.vercel.app/" scrolling="no" height="300px" width="300px"></iframe></center>
