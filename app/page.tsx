@@ -41,15 +41,6 @@ export default function Home() {
           <center><iframe src="https://app-svelte-eight.vercel.app/" scrolling="no" height="300px" width="300px"></iframe></center>
           </div>
       </div>
-      <p className="font-light text-green-900 w-full max-w-lg text-center mt-6">
-        
-        made in colorado with&nbsp; &#9829;&nbsp;{' '}
-        <Link
-          href="https://cf-formspree.pages.dev"
-          className="font-medium hover:text-rose text-rose-700 transition-colors"
-        >
-        </Link>
-      </p>
       <div className="sm:absolute sm:bottom-0 w-full px-20 py-10 flex justify-center items-center">
           
       </div>
