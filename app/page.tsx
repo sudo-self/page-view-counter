@@ -39,9 +39,6 @@ export default function Home() {
         </div>
         <div className="flex flex-col text-emerald-800 space-y-4">
           <center><iframe src="https://app-svelte-eight.vercel.app/" scrolling="no" height="300px" width="300px"></iframe></center>
-          <h2 className="text-xl font-semibold">
-          <a href="https://openai-ufo.vercel.app">Ai (◕_◕)</a>&nbsp;🛸
-          </h2>
           </div>
       </div>
       <p className="font-light text-green-900 w-full max-w-lg text-center mt-6">
@@ -51,7 +48,6 @@ export default function Home() {
           href="https://cf-formspree.pages.dev"
           className="font-medium hover:text-rose text-rose-700 transition-colors"
         >
-         views.JesseJesse.com&nbsp;
         </Link>
       </p>
       <div className="sm:absolute sm:bottom-0 w-full px-20 py-10 flex justify-center items-center">
